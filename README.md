@@ -4,4 +4,5 @@
 Node.js
 
 ## Install
-Run npm install and node .\index.js
+1. Run npm install
+2. Run node .\index.js
