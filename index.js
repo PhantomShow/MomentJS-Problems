@@ -166,6 +166,8 @@ function closestToNow() {
 }
 
 closestToNow();
+closestToNow();
+closestToNow();
 
 console.log("\n----------------------------------------------------------");
 console.log("6. Countdown Until 2026 in Miami");
